@@ -26,6 +26,8 @@
 		6C3FCA2823F1C27700352DD8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6C3FCA2A23F1C27700352DD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6C3FCA3023F1C38300352DD8 /* PrivacyProtectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrivacyProtectionViewController.swift; sourceTree = "<group>"; };
+		6C3FCA3223F1C3EF00352DD8 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		6C3FCA3323F1C3EF00352DD8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,8 @@
 		6C3FCA1023F1C27500352DD8 = {
 			isa = PBXGroup;
 			children = (
+				6C3FCA3323F1C3EF00352DD8 /* README.md */,
+				6C3FCA3223F1C3EF00352DD8 /* LICENSE */,
 				6C3FCA1B23F1C27500352DD8 /* AppSwitcherPrivacyScreen */,
 				6C3FCA1A23F1C27500352DD8 /* Products */,
 			);
